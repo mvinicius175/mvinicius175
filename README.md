@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Eu sou Mauro Vinícius<br>Sou de Jupi-PE<br><br>- 🔭 Estou cursando Ciência da Computação<br>- 📚 Estou focando em aprender coisas relacionadas à análise de dados<br>- ⚡ No meu tempo livre eu gosto de ler, assistir séries e filmes, e passar o tempo com amigos e familiares</p>
+<p align="left">Eu sou Mauro Vinícius<br>Sou de Jupi-PE<br><br>- 🔭 Estou cursando Ciência da Computação na Universidade Federal do Estado de Pernambuco (UFAPE)<br>- 📚 Estou focando em aprender coisas relacionadas à análise de dados<br>- ⚡ No meu tempo livre eu gosto de ler, assistir séries e filmes, e passar o tempo com amigos e familiares</p>
 
 ###
 
